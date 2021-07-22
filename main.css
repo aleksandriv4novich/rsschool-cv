@@ -35,7 +35,7 @@ aside img{
 footer img{
   width: 30%;
   margin: 0 auto;
-  align: center;
+  align-items: center;
 }
 
 .group a{
