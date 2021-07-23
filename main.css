@@ -1,0 +1,57 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-family: Tahoma, serif;
+}
+header,footer{
+  background: #1199dd;
+  padding:50px 0;
+}
+h1{
+  text-align: center;
+  color: #fff;
+  font-size: 50px;
+}
+
+div{
+  width: 1200px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+
+aside,main{
+  width: 50%;
+  float: left;
+ 
+}
+
+aside img{
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+}
+
+footer img{
+  width: 30%;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.group a{
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  
+}
+
+footer p{
+  text-align:center;
+  color:white;
+}
+footer img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
