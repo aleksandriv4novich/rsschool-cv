@@ -1,7 +1,6 @@
 # Aleksandr Kupriianov
 ******
 ### Contact information:
-*****
 *E-mail: aleksandriv4novich@gmail.com
 *Phone: +79179611520
 *Telegram: @Joseph1577
