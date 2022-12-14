@@ -1,11 +1,34 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
 body{
   padding: 0;
   margin: 0;
-  font-family: Tahoma, serif;
+  font-family: 'Oswald', sans-serif;
 }
+
+.nav-list {
+      display: flex;
+      justify-content: center;
+      list-style-type: none;
+
+}
+
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+    transition: .5s;
+}
+
+.item{
+  margin: 10px;
+}
+
 header,footer{
   background: #1199dd;
-  padding:50px 0;
+  padding:5px 0;
 }
 h1{
   text-align: center;
@@ -23,7 +46,7 @@ div{
 aside,main{
   width: 50%;
   float: left;
- 
+
 }
 
 aside img{
@@ -43,7 +66,7 @@ footer img{
   text-align: center;
   font-size: 18px;
   color: white;
-  
+
 }
 
 footer p{
